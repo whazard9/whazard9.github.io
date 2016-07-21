@@ -1,0 +1,31 @@
+.jumbo {
+	background-image: url("images/ixcoverphoto.png");
+	background-size: cover;
+	height: 200px;
+}
+
+.header {
+	width: 100%;
+	height: auto;
+}
+
+a {
+	color: #278e6f;
+}
+
+a:hover {
+	color: #278e6f;
+}
+
+h3 {
+	color: #f9007a;
+}
+
+hr {
+	border-top: 1.5px solid #278e6f;
+}
+
+.col-centered{
+    float: none;
+    margin: 0 auto;
+}
